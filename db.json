@@ -2,6 +2,7 @@
   "percorsi" : [
     {
       "Name" : "Centro 1",
+      "Colore" : "00FF00",
       "coordinates" : [
         
           [
@@ -57,6 +58,7 @@
     },
     {
       "Name" : "Centro 2",
+      "Colore" : "FF0000",
       "coordinates" : [
         
           [
