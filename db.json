@@ -1,5 +1,5 @@
 {
-    "percorsi":{
+    "percorsi":
     [
 	      "type": "Feature",
 	      "properties": {
@@ -128,5 +128,5 @@
           ]
         ]
     ]
-    }
+    
 }
